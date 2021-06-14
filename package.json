@@ -1,0 +1,22 @@
+{
+  "name": "express-mvc-adminlte",
+  "version": "1.0.0",
+  "description": "starter project of express, adminlte and mysql in mvc structure",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "nodemon server.js"
+  },
+  "author": "dedi74132",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "method-override": "^3.0.0",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.4"
+  }
+}

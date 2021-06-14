@@ -12,7 +12,8 @@ How to use this starter pack
 - npm start
 - done
 
-Screenshoot
+#Screenshoots
+
 Dashboard
 <img src="https://raw.githubusercontent.com/dedi74132/express-mvc-adminlte/main/screenshoot/dashboard.png">
 

@@ -1,4 +1,5 @@
-"# express-mvc-adminlte" 
+**"# express-mvc-adminlte"** 
+
 For this project i combine :
 - express V4.17.1
 - AdminLTE 3.1.0
@@ -12,7 +13,7 @@ How to use this starter pack
 - npm start
 - done
 
-** #Screenshoots **
+**#Screenshoots**
 
 Dashboard
 <img src="https://raw.githubusercontent.com/dedi74132/express-mvc-adminlte/main/screenshoot/dashboard.png">
@@ -23,4 +24,4 @@ Users
 Add New User
 <img src="https://raw.githubusercontent.com/dedi74132/express-mvc-adminlte/main/screenshoot/users.png">
 
-Stay tune for update...
+**__Stay tune for update...__**
